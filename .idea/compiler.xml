@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-io-mcp-stdio" />
+        <module name="rag-with-springai" />
+        <module name="java-ai-workshop" />
+        <module name="spring-io-mcp-sse" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-ai-workshop" target="17" />
+      <module name="rag-with-springai" target="17" />
+      <module name="spring-io-mcp-sse" target="17" />
+      <module name="spring-io-mcp-stdio" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="java-ai-workshop" options="-parameters" />
+      <module name="rag-with-springai" options="-parameters" />
+      <module name="spring-io-mcp-sse" options="-parameters" />
+      <module name="spring-io-mcp-stdio" options="-parameters" />
+    </option>
+  </component>
+</project>

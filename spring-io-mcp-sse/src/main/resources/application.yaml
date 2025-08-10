@@ -1,0 +1,31 @@
+spring:
+  application:
+    name: spring-io-mcp-sse
+  ai:
+    mcp:
+      server:
+        enabled: true
+        name: spring-io-2025
+        version: 1.0.0
+        type: SYNC
+        instructions: "This server provides session catalog data for Spring I/O 2025"
+        capabilities:
+          resource: true
+          tool: true
+          prompt: false
+          completion: false
+
+server:
+  port: 8085
+
+logging:
+  level:
+    org.springframework.ai.mcp: DEBUG
+    io.modelcontextprotocol: DEBUG
+    root: INFO
+
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: "*"
