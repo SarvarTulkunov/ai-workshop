@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/ai-workshop.iml" filepath="$PROJECT_DIR$/.idea/ai-workshop.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-ai-workshop/java-ai-workshop.iml" filepath="$PROJECT_DIR$/java-ai-workshop/java-ai-workshop.iml" />
       <module fileurl="file://$PROJECT_DIR$/rag-with-springai/rag-with-springai.iml" filepath="$PROJECT_DIR$/rag-with-springai/rag-with-springai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/spring-ai-metrics.iml" filepath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/spring-ai-metrics.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-io-mcp-sse/spring-io-mcp-sse.iml" filepath="$PROJECT_DIR$/spring-io-mcp-sse/spring-io-mcp-sse.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-io-mcp-stdio/spring-io-mcp-stdio.iml" filepath="$PROJECT_DIR$/spring-io-mcp-stdio/spring-io-mcp-stdio.iml" />
     </modules>

@@ -5,6 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092be65f-ac8f-4e76-bf45-06531c4ba760" name="Changes" comment="add new module: spring io mcp sse">
+      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/src/main/java/com/example/springaimetrics/SpringAiMetricsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/src/test/java/com/example/springaimetrics/SpringAiMetricsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-ai-metrics/docker/dashboards/ai-metrics-dashboard.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-ai-metrics/docker/provisioning/dashboards/ai-metrics-dashboard.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-ai-metrics/docker/provisioning/datasources/prometheus.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-ai-metrics/images/how_they_work_together.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-ai-metrics/images/spring_prometheus_grafana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-ai-metrics/src/main/java/com/example/springaimetrics/chat/ChatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +63,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/myPC/Programming/Github/Projects/ai-workshop/spring-io-mcp-sse/src/main/java/com/example/springiomcpsse&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/myPC/Programming/Github/Projects/ai-workshop&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Perforce&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;f8ab457a2a485bb7592fa508e116b652&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -106,7 +125,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754809714029</updated>
-      <workItem from="1754809715052" duration="5420000" />
+      <workItem from="1754809715052" duration="6773000" />
+      <workItem from="1754892922874" duration="140000" />
+      <workItem from="1754911529232" duration="241000" />
+      <workItem from="1754912052750" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="add new module: spring io mcp sse">
       <created>1754824319251</created>
