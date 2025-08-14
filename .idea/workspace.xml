@@ -5,25 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092be65f-ac8f-4e76-bf45-06531c4ba760" name="Changes" comment="add new module: spring io mcp sse">
-      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/src/main/java/com/example/springaimetrics/SpringAiMetricsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-ai-workshop/spring-ai-metrics/src/test/java/com/example/springaimetrics/SpringAiMetricsApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ai-metrics/docker/dashboards/ai-metrics-dashboard.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ai-metrics/docker/provisioning/dashboards/ai-metrics-dashboard.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ai-metrics/docker/provisioning/datasources/prometheus.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ai-metrics/images/how_they_work_together.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ai-metrics/images/spring_prometheus_grafana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-ai-metrics/src/main/java/com/example/springaimetrics/chat/ChatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-io-mcp-sse/src/main/java/com/example/springiomcpsse/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-io-mcp-sse/src/main/java/com/example/springiomcpsse/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,52 +25,87 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SarvarTulkunov"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SarvarTulkunov/ai-workshop.git",
+    "accountId": "76e4bcfe-6a41-4d58-89b7-ac0a3f1ea481"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="315MvrHrGFB7hfFr7tKbL54ZD04" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/myPC/Programming/Github/Projects/ai-workshop&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Perforce&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;f8ab457a2a485bb7592fa508e116b652&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "18",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/PC/IT/GitHub/Projects/ai-workshop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "f8ab457a2a485bb7592fa508e116b652",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\myPC\Programming\Github\Projects\ai-workshop\spring-io-mcp-sse\src\main\java\com\example\springiomcpsse" />
       <recent name="C:\myPC\Programming\Github\Projects\ai-workshop\spring-io-mcp-stdio\src\main\resources" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
   <component name="RunManager" selected="Spring Boot.JavaAiWorkshopApplication">
     <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="spring-io-mcp-sse" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springiomcpsse.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-io-mcp-stdio" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springiomcpstdio.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,6 +139,14 @@
       </method>
     </configuration>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -129,6 +159,7 @@
       <workItem from="1754892922874" duration="140000" />
       <workItem from="1754911529232" duration="241000" />
       <workItem from="1754912052750" duration="17000" />
+      <workItem from="1755169941535" duration="233000" />
     </task>
     <task id="LOCAL-00001" summary="add new module: spring io mcp sse">
       <created>1754824319251</created>

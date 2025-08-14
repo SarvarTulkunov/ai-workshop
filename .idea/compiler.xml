@@ -12,12 +12,6 @@
         <module name="spring-io-mcp-sse" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="java-ai-workshop" target="17" />
-      <module name="rag-with-springai" target="17" />
-      <module name="spring-io-mcp-sse" target="17" />
-      <module name="spring-io-mcp-stdio" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

@@ -19,4 +19,5 @@ public class Application {
     public List<ToolCallback> springIOSessionTools(SessionTools sessionTools) {
         return List.of(ToolCallbacks.from(sessionTools));
     }
+
 }
